@@ -1,2 +1,2 @@
-# IPlugInstrument
+# SoundPicker
 A basic audio processor that picks random sounds and applies processing to them.
